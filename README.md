@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [Your Name]!</h1>  
+<h1 align="center">👋 Hi, I'm Jatin Vishwakarma!</h1>  
 <h3 align="center">💻 Full-Stack Developer | Backend Specialist</h3>  
 
 🚀 Passionate about **building scalable and efficient web applications**. I specialize in **MERN Stack, Python frameworks, and backend development**.  
