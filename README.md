@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hey there, I'm Jatin Vishwakarma!</h1>  
-<h3 align="center">💻 Full-Stack Developer | Backend Wizard 🧙‍♂️</h3>  
+<h3 align="center">💻 Full-Stack Developer</h3>  
 
 👨‍💻 **Passionate about coding, learning, and building awesome applications!**  
 🌱 **Currently mastering:** Flask, Django, DjangoREST & API security  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal 
+## 🛠️ Tech
 
 ### 🖥️ Frontend  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
